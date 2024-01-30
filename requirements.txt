@@ -1,0 +1,3 @@
+requests
+beautifulsoup4
+langchain  # Assuming 'langchain' is the correct package name and it's available in the Python Package Index (PyPI)
