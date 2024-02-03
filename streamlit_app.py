@@ -95,7 +95,7 @@ if app_mode == "Materiality Report Generator":
     + "Interpret the materiality assessment results in the context of the organization's current strategy. Propose detailed business strategies based on the insights from the report, including risk management strategies, opportunity exploration, innovation and development suggestions, stakeholder engagement strategies, and performance targets. Reflect on how the prioritized material topics can inform business strategies and contribute to sustainability performance.\n\n"
 
     + "8. Proposed Innovation Project\n"
-    + "Based on the report, propose a corporate entrepreneurship project that will help the company be more sustainable.\n\n"
+    + "Based on the report, write a detailed corporate entrepreneurship project proposal for the upper management. The project's aim should be to help the company be more sustainable.\n\n"
 
     + "9. Conclusion\n"
     + "Summarize the materiality assessment process, its outcomes, and the importance of the identified material topics and proposed strategies. Reflect on the impact of the identified material topics on the organization's future strategy and operations.\n\n"
