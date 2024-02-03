@@ -48,7 +48,7 @@ if app_mode == "Materiality Report Generator":
     st.title('Materiality Report Generator')
     url_input = st.text_input('Enter the URL to scrape')
 
-    chat = ChatOpenAI(model_name="gpt-4-0125-preview", temperature=0, openai_api_key=st.secrets["apiKey"])
+    chat = ChatOpenAI(temperature=0, openai_api_key=st.secrets["apiKey"])
 
     if st.button('Scrape'):
         # Call the scrape_site function and display the result
