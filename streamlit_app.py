@@ -121,7 +121,10 @@ if app_mode == "Materiality Report Generator":
         + "8.8 Future Opportunities [3-4 lines]\n"
         + "Explore future opportunities for scaling up the project or leveraging its outcomes for broader sustainability initiatives within the company. Discuss how the project could serve as a model for innovation and sustainability in the industry.\n\n"
 
-    + "9. Conclusion\n"
+    + "9. Sustainability Score\n"
+    + "Based on your assessment, give the company a sustainability score out of 10. Explain your reasoning for the score."
+
+    + "10. Conclusion\n"
     + "Summarize the materiality assessment process, its outcomes, and the importance of the identified material topics and proposed strategies. Reflect on the impact of the identified material topics on the organization's future strategy and operations.\n\n"
 
             ),
