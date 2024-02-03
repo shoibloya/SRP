@@ -48,7 +48,7 @@ if app_mode == "Materiality Report Generator":
     st.title('Materiality Report Generator')
     url_input = st.text_input('Enter the URL to scrape')
 
-    chat = ChatOpenAI(temperature=0, openai_api_key=st.secrets["apiKey"])
+    chat = ChatOpenAI(model_name="gpt-4-0125-preview", temperature=0, openai_api_key=st.secrets["apiKey"])
 
     if st.button('Scrape'):
         # Call the scrape_site function and display the result
@@ -94,11 +94,11 @@ if app_mode == "Materiality Report Generator":
     + "7. Business Strategies\n"
     + "Interpret the materiality assessment results in the context of the organization's current strategy. Propose detailed business strategies based on the insights from the report, including risk management strategies, opportunity exploration, innovation and development suggestions, stakeholder engagement strategies, and performance targets. Reflect on how the prioritized material topics can inform business strategies and contribute to sustainability performance.\n\n"
 
-    + "8. Conclusion\n"
-    + "Summarize the materiality assessment process, its outcomes, and the importance of the identified material topics and proposed strategies. Reflect on the impact of the identified material topics on the organization's future strategy and operations.\n\n"
+    + "8. Proposed Innovation Project\n"
+    + "Based on the report, propose a corporate entrepreneurship project that will help the company be more sustainable.\n\n"
 
-    + "9. Appendices\n"
-    + "Include any detailed findings, data, graphs, or stakeholder feedback that supports the materiality assessment. Provide a glossary of key terms used in the report and acknowledgments to contributors. Appendices may include details from the assessment process that support the findings, such as detailed data, analysis, stakeholder feedback, and additional notes on methodology.\n\n"
+    + "9. Conclusion\n"
+    + "Summarize the materiality assessment process, its outcomes, and the importance of the identified material topics and proposed strategies. Reflect on the impact of the identified material topics on the organization's future strategy and operations.\n\n"
 
             ),
         ]
@@ -113,7 +113,7 @@ elif app_mode == "SustainabilityGPT":
 
     print("hello")
 
-    st.title("ChatGPT-like clone")
+    st.title("SustainabilityGPT")
 
     client = OpenAI(api_key=st.secrets["apiKey"])
 
