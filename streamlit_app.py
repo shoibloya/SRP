@@ -95,7 +95,37 @@ if app_mode == "Materiality Report Generator":
     + "Interpret the materiality assessment results in the context of the organization's current strategy. Propose detailed business strategies based on the insights from the report, including risk management strategies, opportunity exploration, innovation and development suggestions, stakeholder engagement strategies, and performance targets. Reflect on how the prioritized material topics can inform business strategies and contribute to sustainability performance.\n\n"
 
     + "8. Proposed Innovation Project\n"
-    + "Based on the report, write a detailed corporate entrepreneurship project proposal for the upper management. The project's aim should be to help the company be more sustainable.\n\n"
+    + "Outline a comprehensive corporate entrepreneurship project aimed at bolstering the company's sustainability initiatives. This project should integrate innovative solutions, sustainable practices, and strategic partnerships to enhance the company's environmental, social, and governance (ESG) performance.\n\n"
+
+        + "8.1 Project Overview\n"
+        + "Provide a brief summary of the project, including its name, objectives, and the primary sustainability challenge it aims to address. Highlight the project's alignment with the company's overall sustainability goals and corporate strategy.\n\n"
+
+        + "8.2 Problem Statement\n"
+        + "Define the specific environmental or social issue the project targets. Detail the current impact of this issue on the company and its stakeholders, supported by relevant data and insights derived from the materiality assessment.\n\n"
+
+        + "8.3 Innovation and Technology\n"
+        + "Describe the innovative technologies or practices the project will employ to tackle the identified problem. Explain how these technologies are sustainable, their potential impact on the environment, and any technological partnerships or collaborations.\n\n"
+
+        + "8.4 Sustainability Goals\n"
+        + "Outline the sustainability goals of the project, including measurable targets related to waste reduction, energy efficiency, carbon footprint reduction, resource conservation, or social welfare improvements. Explain how these goals contribute to the company's long-term sustainability vision.\n\n"
+
+        + "8.5 Stakeholder Engagement\n"
+        + "Detail the plan for engaging key stakeholders, including employees, customers, suppliers, local communities, and regulators, throughout the project's lifecycle. Discuss how stakeholder feedback will be incorporated into the project development and implementation phases.\n\n"
+
+        + "8.6 Implementation Plan\n"
+        + "Present a step-by-step plan for the project's implementation, including key milestones, timelines, resource allocation, and risk management strategies. Include considerations for scalability and adaptability to different business units or geographies.\n\n"
+
+        + "8.7 Impact Assessment\n"
+        + "Describe the methodology for assessing the project's impact on the company's sustainability performance and stakeholder value. Include both qualitative and quantitative metrics for evaluating success, and how the project's outcomes will be reported and communicated.\n\n"
+
+        + "8.8 Financial Analysis\n"
+        + "Provide a financial analysis of the project, including initial investment requirements, expected returns, cost-saving opportunities, and potential revenue streams. Discuss the project's economic viability and its contribution to the company's financial sustainability.\n\n"
+
+        + "8.9 Challenges and Solutions\n"
+        + "Identify potential challenges and obstacles that might arise during the project's implementation, along with proposed solutions or mitigation strategies. Consider aspects such as regulatory compliance, technological limitations, market acceptance, and internal capacity building.\n\n"
+
+        + "8.10 Future Opportunities\n"
+        + "Explore future opportunities for scaling up the project or leveraging its outcomes for broader sustainability initiatives within the company. Discuss how the project could serve as a model for innovation and sustainability in the industry.\n\n"
 
     + "9. Conclusion\n"
     + "Summarize the materiality assessment process, its outcomes, and the importance of the identified material topics and proposed strategies. Reflect on the impact of the identified material topics on the organization's future strategy and operations.\n\n"
