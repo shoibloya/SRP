@@ -97,34 +97,28 @@ if app_mode == "Materiality Report Generator":
     + "8. Proposed Innovation Project\n"
     + "Outline a comprehensive corporate entrepreneurship project aimed at bolstering the company's sustainability initiatives. This project should integrate innovative solutions, sustainable practices, and strategic partnerships to enhance the company's environmental, social, and governance (ESG) performance.\n\n"
 
-        + "8.1 Project Overview\n"
+        + "8.1 Project Overview [3-4 lines]\n"
         + "Provide a brief summary of the project, including its name, objectives, and the primary sustainability challenge it aims to address. Highlight the project's alignment with the company's overall sustainability goals and corporate strategy.\n\n"
 
-        + "8.2 Problem Statement\n"
+        + "8.2 Problem Statement [3-4 lines]\n"
         + "Define the specific environmental or social issue the project targets. Detail the current impact of this issue on the company and its stakeholders, supported by relevant data and insights derived from the materiality assessment.\n\n"
 
-        + "8.3 Innovation and Technology\n"
+        + "8.3 Innovation and Technology [6-7 lines]\n"
         + "Describe the innovative technologies or practices the project will employ to tackle the identified problem. Explain how these technologies are sustainable, their potential impact on the environment, and any technological partnerships or collaborations.\n\n"
 
-        + "8.4 Sustainability Goals\n"
+        + "8.4 Sustainability Goals [6-7 lines]\n"
         + "Outline the sustainability goals of the project, including measurable targets related to waste reduction, energy efficiency, carbon footprint reduction, resource conservation, or social welfare improvements. Explain how these goals contribute to the company's long-term sustainability vision.\n\n"
 
-        + "8.5 Stakeholder Engagement\n"
+        + "8.5 Stakeholder Engagement [6-7 lines]\n"
         + "Detail the plan for engaging key stakeholders, including employees, customers, suppliers, local communities, and regulators, throughout the project's lifecycle. Discuss how stakeholder feedback will be incorporated into the project development and implementation phases.\n\n"
 
-        + "8.6 Implementation Plan\n"
-        + "Present a step-by-step plan for the project's implementation, including key milestones, timelines, resource allocation, and risk management strategies. Include considerations for scalability and adaptability to different business units or geographies.\n\n"
-
-        + "8.7 Impact Assessment\n"
+        + "8.6 Impact Assessment [10-12 lines]\n"
         + "Describe the methodology for assessing the project's impact on the company's sustainability performance and stakeholder value. Include both qualitative and quantitative metrics for evaluating success, and how the project's outcomes will be reported and communicated.\n\n"
 
-        + "8.8 Financial Analysis\n"
-        + "Provide a financial analysis of the project, including initial investment requirements, expected returns, cost-saving opportunities, and potential revenue streams. Discuss the project's economic viability and its contribution to the company's financial sustainability.\n\n"
-
-        + "8.9 Challenges and Solutions\n"
+        + "8.7 Challenges and Solutions [6-7 lines]\n"
         + "Identify potential challenges and obstacles that might arise during the project's implementation, along with proposed solutions or mitigation strategies. Consider aspects such as regulatory compliance, technological limitations, market acceptance, and internal capacity building.\n\n"
 
-        + "8.10 Future Opportunities\n"
+        + "8.8 Future Opportunities [3-4 lines]\n"
         + "Explore future opportunities for scaling up the project or leveraging its outcomes for broader sustainability initiatives within the company. Discuss how the project could serve as a model for innovation and sustainability in the industry.\n\n"
 
     + "9. Conclusion\n"
